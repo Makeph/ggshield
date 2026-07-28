@@ -1,4 +1,13 @@
+> ⚠️ **ARCHIVED FORK** — This fork is 2900+ commits behind upstream. Use the official repo instead: https://github.com/GitGuardian/ggshield
+
+---
+
 <a href="https://gitguardian.com/"><img src="https://cdn.jsdelivr.net/gh/gitguardian/ggshield/doc/logo.svg"></a>
+
+---
+
+# [ggshield](https://github.com/GitGuardian/ggshield): protect your code with GitGuardian
+
 
 ---
 
